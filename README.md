@@ -1,84 +1,18 @@
-<!-- NEON GRADIENT WAVE BANNER -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+# 💫 About Me:
+🔭 I’m currently working on Full-Stack & Backend applications using Java, Spring Boot, and React<br>👯 I’m looking to collaborate on Specification-Driven Development (SDD) & OpenSpec projects<br>🤝 I’m looking for help with scalable backend system design and cloud deployment<br>🌱 I’m currently learning advanced SQL/PostgreSQL optimization and Playwright E2E automation<br>💬 Ask me about Java, Spring Boot, RESTful APIs, MERN Stack, MySQL, and Flutter<br>⚡ Fun fact I love turning strict API specs into clean, tested code—and unwinding with a quick game of chess
 
-<!-- ANIMATED TYPING SUBTITLE -->
-<p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</p>
 
-<!-- COLORFUL SOCIAL & CONTACT PILLS -->
-<p align="center">
-  <a href="linkedin.com/in/bhavantej-r-31a048312-">
-    <img src="https://shields.io" />
-  </a>
-  <a href="mailto:bhavantej101@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  <img src="https://komarev.com" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ka_67_huduga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bhavantej-r-31a048312-) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bhavantej) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavantej101@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BHAVANTEJ&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=BHAVANTEJ&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BHAVANTEJ&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=BHAVANTEJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Engineering Focus & Highlights
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <ul>
-        <li>🔭 <b>Building:</b> Scalable REST APIs & Full-Stack apps using <b>Java, Spring Boot, React & PostgreSQL</b></li>
-        <li>📐 <b>Methodology:</b> Practicing <b>Specification-Driven Development (OpenSpec)</b> — turning clear specs into verified code</li>
-        <li>🧪 <b>Quality & QA:</b> Writing automated E2E browser tests with <b>Playwright</b> & validating endpoints via Postman</li>
-        <li>🌱 <b>Exploring:</b> High-performance SQL query optimization & enterprise system architecture</li>
-        <li>♟️ <b>Off-Screen:</b> Rapid chess player & side-project builder</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://vercel.app" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Colorful Tech Stack Dashboard
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
----
-
-### 📊 Live GitHub Analytics & Streak
-
-<p align="center">
-  <img src="https://vercel.app" height="175" />
-  <img src="https://demolab.com" height="175" />
-</p>
-
-<!-- COLORFUL ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
-
-<!-- ANIMATED CONTRIBUTION SNAKE -->
-<p align="center">
-  <img src="https://githubusercontent.com" width="100%" />
-</p>
-
-<!-- NEON FOOTER WAVE -->
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
